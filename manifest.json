@@ -1,0 +1,6 @@
+{
+    "name": "hello",
+    "version": "0.1.0",
+    "description": "A simple hello plugin",
+    "script": "hello.sh"
+}
