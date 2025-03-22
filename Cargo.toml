@@ -1,0 +1,8 @@
+[package]
+name = "duckshell"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rustyline = "14.0"  
+sysinfo = "0.30"   
